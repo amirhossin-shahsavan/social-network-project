@@ -2,7 +2,7 @@ import React from 'react'
 import {StreamChat} from 'stream-chat';
 import {ChannelList, Chat} from 'stream-chat-react';
 import Cookies from 'universal-cookie';
-
+import './App.css'
 import ChannelContainer from './Components/ChannelContainer'
 import ChannelListContainer from './Components/ChannelListContainer';
 
